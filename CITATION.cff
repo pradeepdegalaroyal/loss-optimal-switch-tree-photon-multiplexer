@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Loss-Optimal Switch Trees for Photon-Source Multiplexing"
+type: software
+version: 0.1.0
+date-released: 2026-10-28
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/loss-optimal-switch-tree-photon-multiplexer"
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+abstract: "Exact dynamic program for the loss-optimal switch tree of a heralded photon-source multiplexer, compared with balanced-tree, cascade and hill-climbing baselines in simulation."
+keywords:
+  - photonic quantum computing
+  - multiplexing
+  - optical switch network
+  - loss budget
